@@ -1,2 +1,2 @@
 # LUK-CIAS.rar
-a clock for win10
+a clock for win10 written in Visual Studio 
